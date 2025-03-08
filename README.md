@@ -5,7 +5,7 @@
 - 📫 You can reach me on:
   - [LinkedIn](https://www.linkedin.com/in/zulfikri-anwar-029a7a340/)
   - [Instagram](https://www.instagram.com/zulfikrianwaar)
-  - [GitHub](https://github.com/yourusername)
+  - [GitHub](https://github.com/ZulAnwar76)
 - 🧑‍💻 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I love working out.😈🦾
 
