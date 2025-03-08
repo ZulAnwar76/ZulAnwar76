@@ -3,7 +3,7 @@
 - 🎓 **I’m a fresh graduate** in **Informatics Engineering** from **Sriwijaya University**.
 - 🚀 Currently diving deep into **React.js** for web development and exploring data-driven solutions using JavaScript.
 - 📫 You can reach me on:
-  - [LinkedIn](https://www.linkedin.com/in/ZulfikriAnwar)
+  - [LinkedIn](https://www.linkedin.com/in/zulfikri-anwar-029a7a340/)
   - [Instagram](https://www.instagram.com/zulfikrianwaar)
   - [GitHub](https://github.com/yourusername)
 - 🧑‍💻 **Pronouns**: He/Him
