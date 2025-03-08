@@ -1,7 +1,7 @@
 # Hey there! 👋
 
-- 🎓 **I’m a fresh graduate** in **Informatics Engineering** from **Sriwijaya University**.
-- 🚀 Currently diving deep into **React.js** for web development and exploring data-driven solutions using JavaScript.
+- 🎓 Mahasiswa TI USU 2023
+- 🚀 Currently diving deep into **Phython**.
 - 📫 You can reach me on:
   - [LinkedIn](https://www.linkedin.com/in/zulfikri-anwar-029a7a340/)
   - [Instagram](https://www.instagram.com/zulfikrianwaar)
@@ -38,11 +38,10 @@
 
 ## Let's Connect! 🌐
 
-Feel free to reach out if you want to collaborate, chat about tech, or share knowledge. I’m always open to learning new things! 🙌
+Masuk wa aja le.
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Instagram](https://www.instagram.com/yourusername)
-- [GitHub](https://github.com/yourusername)
+- [WhatsApp](https://wa.me/62895378600030)
+
 
 
 ---
